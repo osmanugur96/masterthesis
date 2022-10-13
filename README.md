@@ -1,5 +1,5 @@
-## Under Uncertainty Decision Making: A Novel Bayesian Approach to Portfolio Optimization
-# Abstract
+# Under Uncertainty Decision Making: A Novel Bayesian Approach to Portfolio Optimization
+## Abstract
 Modern people receive a great deal of information, its simplification would help the
 community draw conclusions about positive trends. Decision making under uncer-
 tainty can be quite difficult for some people; however, if they are given enough infor-
