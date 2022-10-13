@@ -6,6 +6,7 @@ tainty can be quite difficult for some people; however, if they are given enough
 mation, we can be sure that a considerable amount will find a way to reach the right
 verdict. The most significant issue would be supplying them with enough information
 without overwhelming them with meaningless details.
+
 As complexity in the markets continue to increase exponentially; most reasonable
 investors stick to fundamentals to make their investment decisions. However; going
 through great amounts of financial data requires tremendous amount of time and man-
